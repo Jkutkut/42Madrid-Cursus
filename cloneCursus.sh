@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 USR="jkutkut"
 SSH_CLONE_START="git@github.com:$USR/"
@@ -22,13 +22,19 @@ sshMultiClone() {
 	done
 }
 
-wget $HTTPS_DOWNLOAD/$REPO/master/README.md -O $TMP_FILE --no-verbose
+# wget $HTTPS_DOWNLOAD/$REPO/master/README.md -O $TMP_FILE --no-verbose
 
-for l in $(cat $TMP_FILE); do
-	if (expr match "$l" "| .+ | .+ | .+ |"); then
-	#if (expr match "l" "| .+ | .+ | .+ |"); then
-		echo "$l"
-	fi
-done
+#while read l; do
+#	#if [[ "$l" =~ "## Projects:" ]]; then
+#	if [[ "$l" =~ "\| .* \| .* \| .* \|" ]]; then
+#		echo "-----------------------------------"
+#		echo "$l"
+#		echo "-----------------------------------"
+#	fi
+#done < $TMP_FILE
 
 
+
+cat $TMP_FILE | grep "<!--" -v | cut -d '|' -f 2 -s | grep "\[" | sed 's/\[(.*)\]\((.*)\)/git clone \2 \1/'
+#cat $TMP_FILE | grep "<!--" -v | cut -d '|' -f 2 -s | grep "\[" 
+#cat $TMP_FILE | grep "<!--" -v | cut -d '|' -f 2 -s | grep "\[" 
