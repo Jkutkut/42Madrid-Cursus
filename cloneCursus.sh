@@ -8,7 +8,7 @@ CLONE_END=".git"
 
 REPO="42Madrid-Cursus"
 
-TMP_FILE="tmp_readme.md"
+TMP_FILE="tmpREADME.md"
 
 sshMultiClone() {
 	type=$1
@@ -33,8 +33,8 @@ sshMultiClone() {
 #	fi
 #done < $TMP_FILE
 
+cat $TMP_FILE | grep "*en.*.pdf*"
 
-
-cat $TMP_FILE | grep "<!--" -v | cut -d '|' -f 2 -s | grep "\[" | sed 's/\[(.*)\]\((.*)\)/git clone \2 \1/'
+#cat $TMP_FILE | grep "<!--" -v | cut -d '|' -f 2 -s | grep "\[" | sed 's/\[(.*)\]\((.*)\)/git clone \2 \1/'
 #cat $TMP_FILE | grep "<!--" -v | cut -d '|' -f 2 -s | grep "\[" 
 #cat $TMP_FILE | grep "<!--" -v | cut -d '|' -f 2 -s | grep "\[" 
