@@ -8,14 +8,15 @@ CLONE_END=".git"
 
 REPO="42Madrid-"
 
-REPOS="Born2beroot
-ft_printf
+
+REPOS="Libft
 get_next_line
-Libft
+Born2beroot
+ft_printf
 Exam_Rank_02
+so_long
 pipex
 push_swap
-so_long
 ---
 Exam_Rank_03
 Exam_Rank_04
@@ -31,3 +32,6 @@ for repoName in $(echo $REPOS); do
 	git clone $SSH_CLONE_START$REPO$repoName$CLONE_END $reponame
 done
 
+if [ ! -d "42Madrid-Cursus" ]; then
+	git clone git@github.com:Jkutkut/42Madrid-Cursus.git
+fi
