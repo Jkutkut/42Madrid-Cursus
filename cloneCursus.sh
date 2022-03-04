@@ -12,12 +12,22 @@ REPOS="Born2beroot
 ft_printf
 get_next_line
 Libft
+Exam_Rank_02
 pipex
 push_swap
-so_long"
+so_long
+---
+Exam_Rank_03
+Exam_Rank_04
+Exam_Rank_05
+Exam_Rank_06"
 
-for reponame in $REPOS; do
-	echo $SSH_CLONE_START$REPO$repoName$CLONE_END
-	git clone $SSH_CLONE_START$REPO$repoName$CLONE_END $reponame
+for repoName in $(echo $REPOS); do
+	if [ "$repoName" = "---" ]; then
+		break
+	fi
+	echo; echo;
+	echo "$SSH_CLONE_START$REPO$repoName$CLONE_END $repoName"
+	#git clone $SSH_CLONE_START$REPO$repoName$CLONE_END $reponame
 done
 
