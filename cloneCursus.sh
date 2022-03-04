@@ -28,6 +28,6 @@ for repoName in $(echo $REPOS); do
 	fi
 	echo; echo;
 	echo "$SSH_CLONE_START$REPO$repoName$CLONE_END $repoName"
-	#git clone $SSH_CLONE_START$REPO$repoName$CLONE_END $reponame
+	git clone $SSH_CLONE_START$REPO$repoName$CLONE_END $reponame
 done
 
