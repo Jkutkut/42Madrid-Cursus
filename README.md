@@ -16,6 +16,8 @@ Here you can find my implementation of 42Madrid Cursus. The code can have modifi
 | [so_long](https://github.com/Jkutkut/42Madrid-so_long) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/en.so_long.pdf) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/es.so_long.pdf) |
 | [push_swap](https://github.com/Jkutkut/42Madrid-push_swap) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/en.push_swap.pdf) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/es.push_swap.pdf) |
 | [pipex](https://github.com/Jkutkut/42Madrid-pipex) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/en.pipex.pdf) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/es.pipex.pdf) |
+| | [Exam Rank 03](https://github.com/Jkutkut/42Madrid-Exam_Rank_03) | |
+| [Philosophers](https://github.com/Jkutkut/42Madrid-Philosophers) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/en.philosophers.pdf) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/es.philosophers.pdf) |
 | | [---](https://github.com/Jkutkut/42Madrid-) | |
 | [NetPractice](https://github.com/Jkutkut/42Madrid-NetPractice) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/en.netPractice.pdf) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/es.netPractice.pdf) |
 <!-- | [](https://github.com/Jkutkut/42Madrid-) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/en..pdf) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/es..pdf) | -->
