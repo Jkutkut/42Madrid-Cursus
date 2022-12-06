@@ -13,15 +13,12 @@ REPOS="Libft
 get_next_line
 Born2beroot
 ft_printf
-Exam_Rank_02
+Examenes
 so_long
 pipex
 push_swap
----
-Exam_Rank_03
-Exam_Rank_04
-Exam_Rank_05
-Exam_Rank_06"
+Philosophers
+---"
 
 for repoName in $(echo $REPOS); do
 	if [ "$repoName" = "---" ]; then
