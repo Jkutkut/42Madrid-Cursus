@@ -17,6 +17,7 @@ Here you can find my implementation of 42Madrid Cursus. The code can have modifi
 | [push_swap](https://github.com/Jkutkut/42Madrid-push_swap) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/en.push_swap.pdf) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/es.push_swap.pdf) |
 | [pipex](https://github.com/Jkutkut/42Madrid-pipex) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/en.pipex.pdf) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/es.pipex.pdf) |
 | | [Exam Rank 03](https://github.com/Jkutkut/42Madrid-Examenes) | |
+| [minishell](https://github.com/Jkutkut/42Madrid-minishell) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/en.minishell.pdf) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/es.minishell.pdf) |
 | [Philosophers](https://github.com/Jkutkut/42Madrid-Philosophers) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/en.philosophers.pdf) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/es.philosophers.pdf) |
 | | [Exam Rank 04](https://github.com/Jkutkut/42Madrid-Examenes) | |
 | | [---](https://github.com/Jkutkut/42Madrid-) | |
@@ -31,9 +32,9 @@ Here you can find my implementation of 42Madrid Cursus. The code can have modifi
 |[Exams](https://github.com/Jkutkut/42Madrid-Examenes)|||
 |[OpenBrain](https://github.com/42Madrid-OpenHacks/OpenBrain)|||
 |[Cryptoday](https://github.com/42Madrid-OpenHacks/Cryptoday)|||
-<!-- |[]()||| -->
-<!-- |[]()||| -->
-<!-- |[]()||| -->
+|[Custom header](https://github.com/Jkutkut/custom_header)|||
+|[Norminette tester](https://github.com/Jkutkut/Sh-Norminette_Tester)|||
+|[Push Swap Tester](https://github.com/Jkutkut/42Tester-push_swap)|||
 <!-- |[]()||| -->
 
 #### Cibersecurity bootcamp:
