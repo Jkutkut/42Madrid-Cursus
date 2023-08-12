@@ -20,8 +20,22 @@ Here you can find my implementation of 42Madrid Cursus. The code can have modifi
 | [minishell](https://github.com/Jkutkut/42Madrid-minishell) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/en.minishell.pdf) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/es.minishell.pdf) |
 | [Philosophers](https://github.com/Jkutkut/42Madrid-Philosophers) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/en.philosophers.pdf) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/es.philosophers.pdf) |
 | | [Exam Rank 04](https://github.com/Jkutkut/42Madrid-Examenes) | |
-| | [---](https://github.com/Jkutkut/42Madrid-) | |
 | [NetPractice](https://github.com/Jkutkut/42Madrid-NetPractice) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/en.netPractice.pdf) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/es.netPractice.pdf) |
+| [cub3d](https://github.com/Jkutkut/42Madrid-cub3d) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/en.cub3d.pdf) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/es.cub3d.pdf) |
+| | [cpp](https://github.com/Jkutkut/42Madrid-cpp) | |
+| [cpp00](https://github.com/Jkutkut/42Madrid-cpp00) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/en.cpp00.pdf) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/es.cpp00.pdf) |
+| [cpp01](https://github.com/Jkutkut/42Madrid-cpp01) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/en.cpp01.pdf) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/es.cpp01.pdf) |
+| [cpp02](https://github.com/Jkutkut/42Madrid-cpp02) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/en.cpp02.pdf) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/es.cpp02.pdf) |
+| [cpp03](https://github.com/Jkutkut/42Madrid-cpp03) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/en.cpp03.pdf) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/es.cpp03.pdf) |
+| [cpp04](https://github.com/Jkutkut/42Madrid-cpp04) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/en.cpp04.pdf) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/es.cpp04.pdf) |
+| | [---](https://github.com/Jkutkut/42Madrid-) | |
+| | [Exam Rank 05](https://github.com/Jkutkut/42Madrid-Examenes) | |
+| [cpp05](https://github.com/Jkutkut/42Madrid-cpp05) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/en.cpp05.pdf) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/es.cpp05.pdf) |
+| [cpp06](https://github.com/Jkutkut/42Madrid-cpp06) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/en.cpp06.pdf) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/es.cpp06.pdf) |
+| [cpp07](https://github.com/Jkutkut/42Madrid-cpp07) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/en.cpp07.pdf) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/es.cpp07.pdf) |
+| [cpp08](https://github.com/Jkutkut/42Madrid-cpp08) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/en.cpp08.pdf) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/es.cpp08.pdf) |
+| [cpp09](https://github.com/Jkutkut/42Madrid-cpp09) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/en.cpp09.pdf) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/es.cpp09.pdf) |
+
 <!-- | [](https://github.com/Jkutkut/42Madrid-) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/en..pdf) | [Subject](https://github.com/Jkutkut/42Madrid-subjects/blob/main/es..pdf) | -->
 
 ### Cursus-Related:

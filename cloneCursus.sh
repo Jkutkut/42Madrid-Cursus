@@ -18,6 +18,7 @@ so_long
 pipex
 push_swap
 Philosophers
+minishell
 ---"
 
 for repoName in $(echo $REPOS); do
