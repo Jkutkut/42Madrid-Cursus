@@ -1,6 +1,6 @@
 # 42Madrid-Cursus:
 
-Here you can find my implementation of 42Madrid Cursus. The code can have modifications over time to implement new logic or fix some errors.
+This repository lists my work at 42 Cursus. All the side projects related with 42 born2code are also listed here.
 
 ## Projects:
 
